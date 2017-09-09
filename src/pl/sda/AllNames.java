@@ -5,12 +5,13 @@ public class AllNames {
 	private final String myName = "Iza Kułakowska";
 	private final String myName1 = "Kamil Brzoza";
 	private final String myName2 = "Tomasz Seidler";
+	private final String myName3 = "Andrzej Chudzicki";
 
 
 
 	@Override
 	public String toString() {
-		return "AllNames: \n" + myName + "\n" + myName1 + "\n" + myName2;
+		return "AllNames: \n" + myName + "\n" + myName1 + "\n" + myName3;
 	}
 
 	@Override
