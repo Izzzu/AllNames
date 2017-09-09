@@ -4,6 +4,7 @@ public class AllNames {
 
 	private final String myName = "Iza Kułakowska";
 	private final String myName1 = "Kamil Brzoza";
+	private final String myName2 = "Tomasz Seidler";
 
 
 
