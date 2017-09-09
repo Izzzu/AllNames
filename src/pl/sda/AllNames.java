@@ -10,7 +10,7 @@ public class AllNames {
 
 	@Override
 	public String toString() {
-		return "AllNames: \n" + myName1;
+		return "AllNames: \n" + myName1 + "\n" + myName2;
 	}
 
 	@Override
