@@ -2,15 +2,11 @@ package pl.sda;
 
 public class AllNames {
 
-	private final String myName = "Iza Kułakowska";
-	private final String myName1 = "Kamil Brzoza";
-	private final String myName2 = "Tomasz Seidler";
-
-
+	private final String myName = "Iza Kulakowska";
 
 	@Override
 	public String toString() {
-		return "AllNames: \n" + myName1;
+		return "AllNames: \n" + myName;
 	}
 
 	@Override
